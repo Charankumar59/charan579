@@ -5,7 +5,7 @@
   </head>
 <body> 
 
-<h1>WELCOME TO JENKINS LAB</h1>
+<h2>WELCOME TO JENKINS LAB</h2>
 
 </body>
 </html>
